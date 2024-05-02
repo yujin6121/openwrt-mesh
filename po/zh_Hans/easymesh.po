@@ -1,0 +1,89 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "easymesh"
+msgstr "easymesh"
+
+msgid "Active node"
+msgstr "활성 노드"
+
+msgid "IF"
+msgstr "IF"
+
+msgid "Neighbor"
+msgstr "노드 이웃 장치"
+
+msgid "lastseen"
+msgstr "마지막 연결 지연"
+
+msgid "EASY MESH"
+msgstr "EASY MESH"
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "General Settings"
+msgstr "기본 설정"
+
+msgid "Enable"
+msgstr "활성화"
+
+msgid "role"
+msgstr "규칙"
+
+msgid "off"
+msgstr "끄기"
+
+msgid "host MESH"
+msgstr "host MESH"
+
+msgid "son MESH"
+msgstr "son MESH"
+
+msgid "MESH Radio device"
+msgstr "MESH 무선 장치"
+
+msgid "The radio device which MESH use"
+msgstr "MESH 네트워킹을 사용하는 무선 장치"
+
+msgid "AUTO"
+msgstr "자동"
+
+msgid "Enable or disable EASY MESH"
+msgstr "단순 MESH 활성화 또는 비활성화"
+
+msgid "Encryption"
+msgstr "암호화"
+
+msgid "Key"
+msgstr "키"
+
+msgid "inter-access point protocol"
+msgstr "액세스 포인트 간 프로토콜"
+
+msgid "Wireless Access Points (APs) running on different vendors can communicate with each other"
+msgstr "서로 다른 공급업체에서 실행되는 무선 액세스 포인트(AP)는 서로 통신할 수 있습니다."
+
+msgid "Threshold for an good RSSI"
+msgstr "빠른 로밍 액세스 가치"
+
+msgid "Threshold for an bad RSSI"
+msgstr "빠른 로밍 킥밸류"
+
+msgid "AP MODE Enable"
+msgstr "AP 모드 활성화"
+
+msgid "Enable or disable AP MODE"
+msgstr "AP 모드 활성화 또는 비활성화"
+
+msgid "IPv4-Address"
+msgstr "IPv4 주소"
+
+msgid "IPv4 netmask"
+msgstr "IPv4 서브넷 마스크"
+
+msgid "IPv4 gateway"
+msgstr "IPv4 게이트웨이"
+
+msgid "Use custom DNS servers"
+msgstr "사용자 정의 DNS 서버 사용"
